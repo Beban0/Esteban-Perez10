@@ -2,10 +2,7 @@
 <p align="left">
 </p>
 
-<div align="center">
 
-![Stats](https://streak-stats.demolab.com?user=darkincognito85&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
